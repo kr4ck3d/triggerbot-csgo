@@ -1,0 +1,12 @@
+﻿  MemoryManipulation.cpp
+C:\Users\user\source\repos\MemoryManipulation\MemoryManipulation\MemoryManipulation.cpp(58,6): warning C4101: 'currentHealth': unreferenced local variable
+C:\Users\user\source\repos\MemoryManipulation\MemoryManipulation\MemoryManipulation.cpp(54,44): warning C4101: 'off7': unreferenced local variable
+C:\Users\user\source\repos\MemoryManipulation\MemoryManipulation\MemoryManipulation.cpp(55,8): warning C4101: 'baseAddress': unreferenced local variable
+C:\Users\user\source\repos\MemoryManipulation\MemoryManipulation\MemoryManipulation.cpp(54,38): warning C4101: 'off6': unreferenced local variable
+C:\Users\user\source\repos\MemoryManipulation\MemoryManipulation\MemoryManipulation.cpp(54,32): warning C4101: 'off5': unreferenced local variable
+  Generating code
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MemoryManipulation.vcxproj -> C:\Users\user\source\repos\MemoryManipulation\Release\MemoryManipulation.exe
